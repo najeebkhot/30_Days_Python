@@ -12,7 +12,8 @@ person_info = {
     'firstname':'John', 
     'lastname':'Doe', 
     'country':'India',
-    'city':'Mumbai'
+    'city':'Mumbai',
+    'skills':['HTML', 'CSS', 'JS', 'React', 'Python']
     }
 
 # Printing the values stored in the variables
