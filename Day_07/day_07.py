@@ -93,4 +93,4 @@ del st
 
 fruits = {'banana', 'orange', 'mango', 'lemon'}
 del fruits
-
+print(fruits) # prints Error : NameError: name 'fruits' is not defined
